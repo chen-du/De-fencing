@@ -1,5 +1,5 @@
 # Fence Segmentation Dataset
-This dataset contains 645 phone-captured photos through fences and the corresponding pixel-level fence segmentation masks at various locations and in different light conditions. The resolution of each image is 3263 * 1840. The fence segmentation masks were obtained using a color-based segmentation with a green backdrop.
+This dataset contains 645 phone-captured photos through fences and the corresponding pixel-level fence segmentation masks at various locations and in different light conditions. The resolution of each image is 3264 * 1840. The fence segmentation masks were obtained using a color-based segmentation with a green backdrop.
 
 ## Citation
 
